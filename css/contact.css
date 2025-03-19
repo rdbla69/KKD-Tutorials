@@ -84,6 +84,7 @@ textarea {
 }
 
 .contact__form .btn {
+  background: var(--color-white);
   width: max-content;
   margin-top: 1rem;
   cursor: pointer;
