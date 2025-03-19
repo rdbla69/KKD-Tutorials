@@ -9,17 +9,17 @@
 }
 
 :root {
-  --color-primary: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
-  --color-success:rgba(231, 230, 231, 0);
-  --color-warning: #000000;
-  --color-danger:  #e2b0d9;
-  --color-danger-variant: rgba(255, 255, 255, 0);
-  --color-white:   radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);;
-  --color-light: rgb(0, 0, 0);
-  --color-black: #000000;
-  --color-bg:#d9d4e7;
-  --color-bg1: radial-gradient(circle, rgba(63,94,251,0.7357317927170868) 0%, rgba(252,70,107,0.335171568627451) 100%);
-  --color-bg2: #d9d4e7;
+  --color-primary: #3f5efb; /* Soft blue */
+  --color-success: #e7e6e7; /* Light gray */
+  --color-warning: #000000; /* Black */
+  --color-danger: #e2b0d9; /* Soft pink */
+  --color-danger-variant: #ffffff; /* White */
+  --color-white: #ffffff; /* White */
+  --color-light: #f5f5f5; /* Off-white */
+  --color-black: #000000; /* Black */
+  --color-bg: #f8f9fa; /* Light gray */
+  --color-bg1: #e3e4e8; /* Muted gray */
+  --color-bg2: #d9d4e7; /* Soft pastel */
   --container-width-lg: 80%;
   --container-width-md: 90%;
   --container-width-sm: 94%;
